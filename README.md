@@ -1,15 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_resources.png">
+  <img src="https://github.com/Greatspot/Greatspot/blob/main/42/banners/resources/github_resources_banner_resources.png">
 </h1>
-
-<p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/badge/links-+1150-1150?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://profile.intra.42.fr/users/rpambo' target="_blank"><img alt='42' src='https://img.shields.io/badge/Luanda-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</p>
 
 <p align="center">
 	<a href="#---1">Information and Facts</a> •
@@ -116,7 +107,7 @@ Websites that I found useful for studying 42 exams. Some are outdated but still 
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
-| [GradeMe](https://grademe.fr)                                                            | Simulate piscine and common core exams. | `Website` |
+| [GradeMe - local mode](https://github.com/Greatspot/42-EXAM)                                                            | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi)                        | Questions and solutions.                | `GitHub`  |
 | [Piscine Exams (outdated)](http://nigal.freeshell.org/42)                                | Questions and solutions.                | `Website` |
 | [Piscine Final Exam Exercices (outdated)](https://github.com/alanbarrett2/42-Final-Exam) | Final exam exercices resolution.        | `GitHub`  |
