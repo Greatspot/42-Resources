@@ -19,7 +19,7 @@ Here, you’ll find a set of resources that proved helpful during my time at 42 
 This project is licensed under MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
 
 > [!NOTE]
-> This project is based on the work of [jtavares](https://github.com/jotavere). Thank you for your contribution
+> This project is based on the work of [jotavare](https://github.com/jotavare). **Thank you for your contribution**
 > 
 > If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
 !
